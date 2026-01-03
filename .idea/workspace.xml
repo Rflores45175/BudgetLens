@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="034434a5-896a-4bff-93a9-d689f0cb9c49" name="Changes" comment="New Project">
-      <changelist_data name="Rudy" email="" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/budgetmanager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/forecastengine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/transaction.py" afterDir="false" />
+    <list default="true" id="034434a5-896a-4bff-93a9-d689f0cb9c49" name="Changes" comment="added transaction.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/budgetmanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/budgetmanager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/transaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/transaction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +97,15 @@
       <option name="presentableId" value="Default" />
       <updated>1767400590901</updated>
     </task>
+    <task id="LOCAL-00001" summary="added transaction.py">
+      <option name="closed" value="true" />
+      <created>1767402673877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767402673877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Project" />
+    <MESSAGE value="added transaction.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added transaction.py" />
   </component>
 </project>

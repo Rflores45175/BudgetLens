@@ -6,7 +6,6 @@ class Transaction:
         self.category = category
         self.description = description
 
-
     def is_income(self):
         return self.amount > 0
 
