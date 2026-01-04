@@ -1,6 +1,5 @@
 from transaction import Transaction
 
-
 class BudgetManager:
 
     def __init__(self, starting_balance):
